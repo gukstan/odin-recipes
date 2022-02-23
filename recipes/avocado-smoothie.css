@@ -1,0 +1,14 @@
+html {
+    background-color: #37893b;
+    color: white;
+    text-align: left;
+}
+
+img {
+    width: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
